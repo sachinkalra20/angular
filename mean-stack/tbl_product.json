@@ -1,0 +1,492 @@
+{ 
+    "_id" : NumberInt(4), 
+    "ProductName" : "abcd", 
+    "productType" : "1", 
+    "description" : "gfdacuhik", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : NumberInt(2), 
+    "productImage" : "C:\\fakepath\\apple.jpg", 
+    "productNewPrice" : NumberInt(1234), 
+    "productOldPrice" : "321", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(1), 
+    "productSubCategory" : NumberInt(1), 
+    "productSubSubCategory" : NumberInt(1), 
+    "productBrand" : NumberInt(3), 
+    "productOffers" : "stgw", 
+    "images" : [
+        "1566181431275apple.jpg", 
+        "1566181431311diamond.html", 
+        "1566181431321dp1.html"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(5), 
+    "ProductName" : "Costello Fabric Manual Recliners", 
+    "productType" : "1", 
+    "description" : "Material: Fabric, 3 Reclining Positions, Filling Material: Foam, W x H x D: 84 cm x 103 cm x 95 cm (2 ft 9 in x 3 ft 4 in x 3 ft 1 in)", 
+    "productColor" : "brown", 
+    "productRatings" : NumberInt(3), 
+    "productImage" : "C:\\fakepath\\recliner1.jpeg", 
+    "productNewPrice" : NumberInt(13690), 
+    "productOldPrice" : "19999", 
+    "productQuantity" : NumberInt(8), 
+    "productCategory" : NumberInt(2), 
+    "productSubCategory" : NumberInt(2), 
+    "productSubSubCategory" : NumberInt(3), 
+    "productBrand" : NumberInt(5), 
+    "productOffers" : "13%", 
+    "images" : [
+        "1566554784509recliner1.jpeg", 
+        "1566554784512recliner2.jpeg", 
+        "1566554784514recliner3.jpeg", 
+        "1566554784516recliner4.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(6), 
+    "ProductName" : "Apollo Fabric 3 Seater Sofa", 
+    "productType" : "2", 
+    "description" : "Polyester, Filling Material: Foam, W x H x D: 213.4 cm x 82.5 cm x 85 cm (7 ft x 2 ft 8 in x 2 ft 9 in), ", 
+    "productColor" : "Yellow%Green%Brown%Black", 
+    "productRatings" : NumberInt(4), 
+    "productImage" : "C:\\fakepath\\sofa1.jpeg", 
+    "productNewPrice" : NumberInt(42199), 
+    "productOldPrice" : "42199", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(2), 
+    "productSubCategory" : NumberInt(2), 
+    "productSubSubCategory" : NumberInt(2), 
+    "productBrand" : NumberInt(7), 
+    "productOffers" : "3yr warranty on the structure,2yr on the cushions", 
+    "images" : [
+        "1566555593316sofa1.jpeg", 
+        "1566555593321sofa2.jpeg", 
+        "1566555593324sofa3.jpeg", 
+        "1566555593326sofa4.jpeg", 
+        "1566555593329sofa5.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(7), 
+    "ProductName" : "LG 260 L Frost Free Double Door 4 Star Refrigerator ", 
+    "productType" : "2", 
+    "description" : "Meet this LG frost-free refrigerator that ensures efficient and durable performance. It features multi air vents that will keep your food fresh and healthy with consistent cooling. While, the Moist Balance Crisper maintains an optimum level of moisture inside it, keeping your veggies fresh for a longer duration.", 
+    "productColor" : "Silver", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\ddref1.jpeg", 
+    "productNewPrice" : NumberInt(24490), 
+    "productOldPrice" : "30690", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(1), 
+    "productSubCategory" : NumberInt(4), 
+    "productSubSubCategory" : NumberInt(5), 
+    "productBrand" : NumberInt(2), 
+    "productOffers" : "20%", 
+    "images" : [
+        "1566556638599ddref1.jpeg", 
+        "1566556638600ddref2.jpeg", 
+        "1566556638601ddref3.jpeg", 
+        "1566556638602ddref4.jpeg", 
+        "1566556638604ddref5.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(8), 
+    "ProductName" : "Samsung 192 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer ", 
+    "productType" : "3", 
+    "description" : "Keep your fruits and vegetables fresh in this fridge from Samsung. While the Digital Inverter Technology offers an efficient and noise-free performance, the Vege Box can store your week’s worth of groceries. You can keep your leftovers in heavy pots and pans as the Toughened Glass Shelves can withstand up to 150 kg of weight.", 
+    "productColor" : "Blue", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\sdref1.jpeg", 
+    "productNewPrice" : NumberInt(15890), 
+    "productOldPrice" : "20400", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(1), 
+    "productSubCategory" : NumberInt(4), 
+    "productSubSubCategory" : NumberInt(4), 
+    "productBrand" : NumberInt(1), 
+    "productOffers" : "22%", 
+    "images" : [
+        "1566556933402sdref1.jpeg", 
+        "1566556933404sdref2.jpeg", 
+        "1566556933406sdref3.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(9), 
+    "ProductName" : "Urban Ladder Solid Wood King Hydraulic Bed ", 
+    "productType" : "3", 
+    "description" : "Material Subtype: MDF (Medium Density Fiber)\nW x H x D: 1899.92 mm x 876.3 mm x 2098.04 mm (6 ft 2 in x 2 ft 10 in x 6 ft 10 in)", 
+    "productColor" : "Brown", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\kbeds.jpeg", 
+    "productNewPrice" : NumberInt(67499), 
+    "productOldPrice" : "67499", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(2), 
+    "productSubCategory" : NumberInt(6), 
+    "productSubSubCategory" : NumberInt(6), 
+    "productBrand" : NumberInt(8), 
+    "productOffers" : " 36months Manufacturer Warranty", 
+    "images" : [
+        "1566557711047kbeds.jpeg", 
+        "1566557711048kbeds2.jpeg", 
+        "1566557711049kbeds3.jpeg", 
+        "1566557711049kbeds4.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(10), 
+    "ProductName" : "Ambra Engineered Wood Queen Box Bed ", 
+    "productType" : "2", 
+    "description" : "Material Subtype: Particle Board\nW x H x D: 159 cm x 92.5 cm x 207 cm (5 ft 2 in x 3 ft x 6 ft 9 in)", 
+    "productColor" : "Brown", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\qbeds1.jpeg", 
+    "productNewPrice" : NumberInt(23900), 
+    "productOldPrice" : "52900", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(2), 
+    "productSubCategory" : NumberInt(6), 
+    "productSubSubCategory" : NumberInt(7), 
+    "productBrand" : NumberInt(9), 
+    "productOffers" : "50%", 
+    "images" : [
+        "1566558165316qbeds1.jpeg", 
+        "1566558165319qbeds2.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(11), 
+    "ProductName" : "Samsung Galaxy Note 10 Plus", 
+    "productType" : "1", 
+    "description" : "The Galaxy Note10+ is designed to give you the mobile experience of a computer, a gaming console, a movie-tech camera, and an intelligent pen - all in one device. Powered by a 7nm processor, 12 GB of RAM, 256 GB of internal storage capacity and a 2.0 Gbps LTE connection, the Note 10+ lets you download files, live-game, and stream content seamlessly.", 
+    "productColor" : "White%Black%Aura Glow", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\sphone1.jpeg", 
+    "productNewPrice" : NumberInt(79999), 
+    "productOldPrice" : "85000", 
+    "productQuantity" : NumberInt(5), 
+    "productCategory" : NumberInt(1), 
+    "productSubCategory" : NumberInt(3), 
+    "productSubSubCategory" : NumberInt(8), 
+    "productBrand" : NumberInt(1), 
+    "productOffers" : "5%", 
+    "images" : [
+        "1566558563960sphone1.jpeg", 
+        "1566558563961sphone2.jpeg", 
+        "1566558563961sphone3.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(12), 
+    "ProductName" : "Apple iPhone XS", 
+    "productType" : NumberInt(1), 
+    "description" : "Apple brings the 'big screen' onto the palm of your hands with the iPhone Xs. Its 14.73 cm (5.8) display is as indulgent and tough as it gets. What's more? The iPhone XS is resistant to liquid spills, juices and tea included.", 
+    "productColor" : "Black%Gold%Silver", 
+    "productRatings" : 3.5, 
+    "productImage" : "C:\\fakepath\\iphone1.jpeg", 
+    "productNewPrice" : NumberInt(114900), 
+    "productOldPrice" : "114900", 
+    "productQuantity" : NumberInt(10), 
+    "productCategory" : NumberInt(1), 
+    "productSubCategory" : NumberInt(3), 
+    "productSubSubCategory" : NumberInt(11), 
+    "productBrand" : NumberInt(10), 
+    "productOffers" : "No cost EMI ₹9,575/month*Buy 4 get 50% discount*buy 2 get 20% discount", 
+    "images" : [
+        "1566558792888iphone1.jpeg", 
+        "1566558792889iphone2.jpeg", 
+        "1566558792891iphone3.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(13), 
+    "ProductName" : "Ronald Solid Wood 6 Seater Dining Set ", 
+    "productType" : "2", 
+    "description" : "Table Top Material: Engineered Wood\nChair Frame: Solid Wood\nUpholstery Included\nTable (W x H x D): 150 cm x 74 cm x 90 cm (4 ft 11 in x 2 ft 5 in x 2 ft 11 in)", 
+    "productColor" : "Brown", 
+    "productRatings" : NumberInt(3), 
+    "productImage" : "C:\\fakepath\\recdin1.jpeg", 
+    "productNewPrice" : NumberInt(19900), 
+    "productOldPrice" : "67000", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(2), 
+    "productSubCategory" : NumberInt(5), 
+    "productSubSubCategory" : NumberInt(10), 
+    "productBrand" : NumberInt(7), 
+    "productOffers" : "70%", 
+    "images" : [
+        "1566559230883recdin1.jpeg", 
+        "1566559230884recdin2.jpeg", 
+        "1566559230884recdin3.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(14), 
+    "ProductName" : "Corona Dining Set Metal 4 Seater Dining Set", 
+    "productType" : "1", 
+    "description" : "Table Top Material: Glass\nChair Frame: Plastic\nTable (W x H x D): 89.5 cm x 78 cm x 89.5 cm (2 ft 11 in x 2 ft 6 in x 2 ft 11 in)", 
+    "productColor" : "White", 
+    "productRatings" : NumberInt(4), 
+    "productImage" : "C:\\fakepath\\rdin1.jpeg", 
+    "productNewPrice" : NumberInt(10490), 
+    "productOldPrice" : "39900", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(2), 
+    "productSubCategory" : NumberInt(5), 
+    "productSubSubCategory" : NumberInt(9), 
+    "productBrand" : NumberInt(5), 
+    "productOffers" : "73%", 
+    "images" : [
+        "1566559437732rdin1.jpeg", 
+        "1566559437733rdin2.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(15), 
+    "ProductName" : "Samsung 6 kg Inverter Fully Automatic Front Load Washing Machine", 
+    "productType" : "2", 
+    "description" : "Washing clothes will no longer be a chore you hate, thanks to the Samsung WW60M206LMW/TL washing machine. Convert your pile of dirty clothes into a pile of freshly washed clothes in no time at all with this washing machine.", 
+    "productColor" : "White", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\wm2.jpeg", 
+    "productNewPrice" : NumberInt(21199), 
+    "productOldPrice" : "25600", 
+    "productQuantity" : NumberInt(1), 
+    "productCategory" : NumberInt(1), 
+    "productSubCategory" : NumberInt(1), 
+    "productSubSubCategory" : NumberInt(1), 
+    "productBrand" : NumberInt(1), 
+    "productOffers" : "17%", 
+    "images" : [
+        "1566559744118wm4.jpeg", 
+        "1566559744116wm2.jpeg", 
+        "1566559744117wm3.jpeg"
+    ], 
+    "sizes" : "XL,L,XXL"
+}
+{ 
+    "_id" : NumberInt(16), 
+    "ProductName" : "The Great Gatsby ", 
+    "productType" : "2", 
+    "description" : "It's the Roaring Twenties and New York City is the place to be. Everything can be purchased, everyone can be bought. But, can you make money erase your past?\n\nAs more and more people lose themselves to the lure of money, ironically the only person who remains unaffected is Jay Gatsby, the enigmatic host of the most extravagant parties.\n\nIn this definitive tale on American culture, Fitzgerald pits a chaste dream against the corrupting influences of wealth and comes up with an epic story that can only be defined as 'a Great American novel'.", 
+    "productColor" : "Brown", 
+    "productRatings" : NumberInt(4), 
+    "productImage" : "C:\\fakepath\\clasficbook1.jpg", 
+    "productNewPrice" : NumberInt(540), 
+    "productOldPrice" : "540", 
+    "productQuantity" : NumberInt(5), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(7), 
+    "productSubSubCategory" : NumberInt(13), 
+    "productBrand" : NumberInt(11), 
+    "productOffers" : "Cashback (2): Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days* No Cost EMI: No cost EMI available on Amazon Pay ICICI credit card on orders above Rs.3000* Bank Offer (2): Get 5% cashback on a minimum purchase of Rs 2000 with HDFC Bank Debit Cards ", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "1566919722114clasficbook1.jpg", 
+        "1566919722148clasficbook2.jpg", 
+        "1566919722173clasficbook3.jpg", 
+        "1566919722194clasficbook4.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(17), 
+    "ProductName" : "Pride & Prejudice", 
+    "productType" : "1", 
+    "description" : "When Elizabeth Bennet meets Fitzwilliam Darcy for the first time at a ball, she writes him off as an arrogant and obnoxious man. He not only acts like an insufferable snob, but she also overhears him rejecting the very idea of asking her for a dance! \n\nAs life pits them against each other again and again, Darcy begins to fall for Elizabeth's wit and intelligence and Elizabeth begins to question her feelings about Darcy. When Darcy saves her youngest sister, Lydia, from a scandal, Elizabeth starts to wonder if her pride has prejudiced her opinion of Darcy.\n\nThrough this tale about two warring hearts, Austen weaves a witty satire about life in eighteenth century England. And though it was published more than two centuries ago, Pride and Prejudice continues to enthrall readers to this very day.", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : 4.5, 
+    "productImage" : "C:\\fakepath\\2clasficbook1.jpg", 
+    "productNewPrice" : NumberInt(143), 
+    "productOldPrice" : "143", 
+    "productQuantity" : NumberInt(5), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(7), 
+    "productSubSubCategory" : NumberInt(13), 
+    "productBrand" : NumberInt(12), 
+    "productOffers" : "Get 10% cashback up to Rs. 100 using Visa Signature or Visa Infinite cards. Shop during the Visa Shopping Days starting 20th to end of every month. Cashback within 3 days", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "15669202235072clasficbook1.jpg", 
+        "15669202235122clasficbook2.jpg", 
+        "15669202235132clasficbook3.jpg", 
+        "15669202235462clasficbook4.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(18), 
+    "ProductName" : "The Immortals of Meluha (Shiva Trilogy)", 
+    "productType" : "2", 
+    "description" : "Today, Shiva is a god. But four thousand years ago, he was just a man. 1900 BC: the once-proud Suryavanshi rulers of the Meluha Empire are in dire peril. The empire's primary river, the Saraswati, is slowly drying up. There are devastating terrorist attacks from the east, the land of the Chandravanshis - and to make matters worse, the Chandravanshis appears to have allied with the Nagas, an ostracised race of deformed humans with astonishing martial skills. The only hope for the Suryavanshis is an ancient prophecy: when evil reaches epic proportions and all seems lost, a hero will emerge...", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : 4.5, 
+    "productImage" : "C:\\fakepath\\contficbook1.jpg", 
+    "productNewPrice" : NumberInt(283), 
+    "productOldPrice" : "283", 
+    "productQuantity" : NumberInt(3), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(7), 
+    "productSubSubCategory" : NumberInt(12), 
+    "productBrand" : NumberInt(13), 
+    "productOffers" : "No cost EMI available on Amazon Pay ICICI credit card on orders above Rs.3000, Avail EMI on Debit Cards. Get credit up to ₹1,00,000.", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "1566922136388contficbook1.jpg", 
+        "1566922136393contficbook2.jpg", 
+        "1566922136398contficbook3.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(19), 
+    "ProductName" : "And the Roses Bled ", 
+    "productType" : "1", 
+    "description" : "What happens when the dead come back and can’t let go?\nA catastrophe occurs in what was meant to be a fun-filled day for Nina and Alisha. Minutes ago, they were on the swings in the Rose Garden and now, Alisha is standing alone, while the help runs frantically. Her sister, Nina, has disappeared, never to be found again. \nBut the bond between them withstands even death. Nina’s ghost circles the house. \nIs she here just to comfort her now lonely and distraught sister or is she pointing the way to unravel the mystery of her disappearance? the questions remain unanswered until six years later. \nAnother ghost is reaching out to Alisha from the beyond, a ghost only she can see and she has no idea why. \nBattling the horror, the blood and the nightmares that follow her in this macabre turn of events, will Alisha be able to emerge from the whirlpool that the other side is trying to drown her in?", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : 4.5, 
+    "productImage" : "C:\\fakepath\\2contficbook1.jpg", 
+    "productNewPrice" : NumberInt(233), 
+    "productOldPrice" : "399", 
+    "productQuantity" : NumberInt(4), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(7), 
+    "productSubSubCategory" : NumberInt(12), 
+    "productBrand" : NumberInt(14), 
+    "productOffers" : "Get 5% cashback on a minimum purchase of Rs 2000 with HDFC Bank Debit Cards", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "15669223661952contficbook1.jpg", 
+        "15669223662532contficbook2.jpg", 
+        "15669223662702contficbook3.jpg", 
+        "15669223662752contficbook4.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(20), 
+    "ProductName" : "Wuthering Heights", 
+    "productType" : "2", 
+    "description" : "Emily Brontë, sister of Charlotte and Anne Brontë was born on July 30, 1818, in Yorkshire. Wuthering Heights, published in 1847, was Emily's first and only published novel. A classic tale of jealousy, vengefulness and passion, it is widely regarded as a classic of English literature. The novel brings out Emily Brontë's mastery of an extremely complex structure, acute evocation of place and poetic grandeur of vision. Emily died on December 19, 1848, at the young age of thirty. She knew nothing of the success which Wuthering Heights was to be finally accorded with.", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : NumberInt(4), 
+    "productImage" : "C:\\fakepath\\3clasficbook1.jpg", 
+    "productNewPrice" : NumberInt(130), 
+    "productOldPrice" : "139", 
+    "productQuantity" : NumberInt(7), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(7), 
+    "productSubSubCategory" : NumberInt(13), 
+    "productBrand" : NumberInt(15), 
+    "productOffers" : "Get 5% cashback on a minimum purchase of Rs 2000 with HDFC Bank Debit Cards* No cost EMI available on Amazon Pay ICICI credit card on orders above Rs.3000 ", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "15669226400743clasficbook1.jpg", 
+        "15669226401173clasficbook2.jpg", 
+        "15669226401253clasficbook3.jpg", 
+        "15669226401423clasficbook4.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(22), 
+    "ProductName" : "Swami Vivekananda: A Biography", 
+    "productType" : "1", 
+    "description" : "Swami Vivekananda, was an Indian Hindu monk and chief disciple of the 19th-century saint Ramakrishna. He was a key figure in the introduction of the Indian philosophies of Vedanta and Yoga to the Western world and is credited with raising interfaith awareness, bringing Hinduism to the status of a major world religion during the late 19th century", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : 4.5, 
+    "productImage" : "C:\\fakepath\\3autobook - Copy.jpg", 
+    "productNewPrice" : NumberInt(129), 
+    "productOldPrice" : "160", 
+    "productQuantity" : NumberInt(5), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(14), 
+    "productSubSubCategory" : NumberInt(41), 
+    "productBrand" : NumberInt(16), 
+    "productOffers" : "No cost EMI available on Amazon Pay ICICI credit card on orders above Rs.3000*Get 5% cashback on a minimum purchase of Rs 2000 with HDFC Bank Debit Cards", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "15669599467893autobook - Copy.jpg", 
+        "15669599467923autobook.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(23), 
+    "ProductName" : "Wings of Fire: An Autobiography of Abdul Kalam", 
+    "productType" : "3", 
+    "description" : "Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success.", 
+    "productColor" : "White,Black,Red,Blue", 
+    "productRatings" : 4.5, 
+    "productNewPrice" : NumberInt(310), 
+    "productOldPrice" : "370", 
+    "productQuantity" : NumberInt(6), 
+    "productCategory" : NumberInt(3), 
+    "productSubCategory" : NumberInt(14), 
+    "productSubSubCategory" : NumberInt(41), 
+    "productBrand" : NumberInt(18), 
+    "productOffers" : "Get 5% cashback on a minimum purchase of Rs 2000 with HDFC Bank Debit Cards", 
+    "catname" : "Books", 
+    "subcatname" : "Non Fiction", 
+    "subsubcatname" : "Autobiographies", 
+    "brandname" : " Arun Tiwari (Author)", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "1566960088029autobook1 - Copy.jpg", 
+        "1566960088031autobook1.jpg"
+    ]
+}
+{ 
+    "_id" : NumberInt(24), 
+    "ProductName" : "Women Embroidered, Colorblock Asymmetric Kurta ", 
+    "productType" : "1", 
+    "description" : "\nCotton Rayon Blend", 
+    "productColor" : "Green%Yellow%Black", 
+    "productRatings" : NumberInt(4), 
+    "productImage" : "C:\\fakepath\\ethnickurta1.jpeg", 
+    "productNewPrice" : NumberInt(718), 
+    "productOldPrice" : "1499", 
+    "productQuantity" : NumberInt(10), 
+    "productCategory" : NumberInt(5), 
+    "productSubCategory" : NumberInt(11), 
+    "productSubSubCategory" : NumberInt(22), 
+    "productBrand" : NumberInt(9), 
+    "productOffers" : "Bank Offer10% Instant Discount on Mastercard on Fashion for First 3 Prepaid Payments, Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit Card ", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "1568643854886ethnickurta1.jpeg", 
+        "1568643854900ethnickurta2.jpeg", 
+        "1568643854923ethnickurta3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(25), 
+    "ProductName" : "Women Kurta and Palazzo Set", 
+    "productType" : "3", 
+    "description" : "Women Kurta and Palazzo Set", 
+    "productColor" : "yellow%Black%Pink", 
+    "productRatings" : NumberInt(5), 
+    "productImage" : "C:\\fakepath\\ethnicchudi1.jpeg", 
+    "productNewPrice" : NumberInt(865), 
+    "productOldPrice" : "2100", 
+    "productQuantity" : NumberInt(15), 
+    "productCategory" : NumberInt(5), 
+    "productSubCategory" : NumberInt(11), 
+    "productSubSubCategory" : NumberInt(22), 
+    "productBrand" : NumberInt(19), 
+    "productOffers" : "Extra 5% off* with Axis Bank Buzz Credit Card", 
+    "sizes" : "XL,L,XXL", 
+    "images" : [
+        "1568644763283ethnicchudi1.jpeg", 
+        "1568644763289ethnicchudi2.jpeg", 
+        "1568644763295ethnicchudi3.jpeg"
+    ]
+}

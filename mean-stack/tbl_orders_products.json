@@ -1,0 +1,55 @@
+{ 
+    "_id" : ObjectId("5d81bf68472cc00aa8f7b09f"), 
+    "uid" : NumberInt(2), 
+    "pid" : NumberInt(11), 
+    "uqty" : NumberInt(1), 
+    "pname" : "Samsung Galaxy Note 10 Plus", 
+    "price" : NumberInt(79999), 
+    "image" : "1566558563960sphone1.jpeg", 
+    "prodColor" : "White", 
+    "orderid" : "345"
+}
+{ 
+    "_id" : ObjectId("5d81bec03f654b30342bd968"), 
+    "uid" : NumberInt(2), 
+    "pid" : NumberInt(12), 
+    "uqty" : NumberInt(1), 
+    "pname" : "Apple iPhone XS", 
+    "price" : NumberInt(114900), 
+    "image" : "1566558792888iphone1.jpeg", 
+    "prodColor" : "Black", 
+    "orderid" : "345"
+}
+{ 
+    "_id" : ObjectId("5d81ca9c0652631074e21cc5"), 
+    "uid" : NumberInt(2), 
+    "pid" : NumberInt(11), 
+    "uqty" : NumberInt(1), 
+    "pname" : "Samsung Galaxy Note 10 Plus", 
+    "price" : NumberInt(79999), 
+    "image" : "1566558563960sphone1.jpeg", 
+    "prodColor" : "White", 
+    "orderid" : "11223344"
+}
+{ 
+    "_id" : ObjectId("5d81ca930652631074e21cc4"), 
+    "uid" : NumberInt(2), 
+    "pid" : NumberInt(12), 
+    "uqty" : NumberInt(1), 
+    "pname" : "Apple iPhone XS", 
+    "price" : NumberInt(114900), 
+    "image" : "1566558792888iphone1.jpeg", 
+    "prodColor" : "Black", 
+    "orderid" : "11223344"
+}
+{ 
+    "_id" : ObjectId("5d81caa90652631074e21cc6"), 
+    "uid" : NumberInt(2), 
+    "pid" : NumberInt(15), 
+    "uqty" : NumberInt(1), 
+    "pname" : "Samsung 6 kg Inverter Fully Automatic Front Load Washing Machine with In-built Heater White", 
+    "price" : NumberInt(21199), 
+    "image" : "1566559744118wm4.jpeg", 
+    "prodColor" : "White", 
+    "orderid" : "11223344"
+}

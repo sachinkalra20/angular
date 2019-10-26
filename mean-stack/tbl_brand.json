@@ -1,0 +1,95 @@
+{ 
+    "_id" : NumberInt(1), 
+    "brandname" : "Samsung", 
+    "Active" : "0"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "brandname" : "LG", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "brandname" : "Whirlpool", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "brandname" : "Panasonic", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "brandname" : "Godrej Interio", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(6), 
+    "brandname" : "Royal Oak", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(7), 
+    "brandname" : "Damro", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(8), 
+    "brandname" : "urban Ladder", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(9), 
+    "brandname" : "Wake-Fit", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(10), 
+    "brandname" : "Apple", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(11), 
+    "brandname" : "F. Scott Fitzgerald (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(12), 
+    "brandname" : "Jane Austen (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(13), 
+    "brandname" : "Amish (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(14), 
+    "brandname" : "Mehak Daleh (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(15), 
+    "brandname" : "Emily Brontë (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(16), 
+    "brandname" : " Swami Vivekananda (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(17), 
+    "brandname" : " Mahatma Gandhi (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(18), 
+    "brandname" : " Arun Tiwari (Author)", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(19), 
+    "brandname" : "Stylum", 
+    "Active" : NumberInt(1)
+}

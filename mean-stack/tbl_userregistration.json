@@ -1,0 +1,52 @@
+{ 
+    "_id" : NumberInt(1), 
+    "username" : "naidu", 
+    "email" : "a", 
+    "password" : "a", 
+    "phone" : "99999999999", 
+    "address" : "hyderabad\nsxssd\nsdsdsdsd", 
+    "Active" : NumberInt(1), 
+    "actlink" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbSI6InNyZWVsZWtoYS5qYWRhbGFAZ21haWwuY29tIiwiaWF0IjoxNTY4MzU1NDU0fQ.pvqPC5nKoZQr27rdWcZcs659NDYeUSgXULDmt1ZfUvE", 
+    "shippingaddress" : "gfgvgh"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "username" : "swamy", 
+    "email" : "v", 
+    "password" : "v", 
+    "phone" : "9738706186", 
+    "address" : "Bangalore", 
+    "Active" : NumberInt(1), 
+    "actlink" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbSI6ImFiaGlzaGVrYW5hbmQ5OTYyQGdtYWlsLmNvbSIsImlhdCI6MTU2ODM1NzExNH0.ZFb-XUTMFpZM0tV4QpiNrSxlmwvg4cpcT7R8LpsRPWc", 
+    "gender" : "f"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "username" : "parvathi", 
+    "email" : "sivaparvathi.raparla@gmail.com", 
+    "password" : "98765", 
+    "phone" : "9182672131", 
+    "address" : "Guntur", 
+    "Active" : NumberInt(0), 
+    "actlink" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbSI6InNpdmFwYXJ2YXRoaS5yYXBhcmxhQGdtYWlsLmNvbSIsImlhdCI6MTU2ODM1NzYyNH0.Sie18ff8NaBq_Q3EHbO6h__GtxkF-W1CMi3I72V0I9U"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "username" : "123456", 
+    "email" : "qxsxexdef", 
+    "password" : "q", 
+    "phone" : "q", 
+    "address" : "q", 
+    "Active" : NumberInt(0), 
+    "actlink" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbSI6InF4c3hleGRlZiIsImlhdCI6MTU2ODM2Nzg0MX0.jZf9rtIFuYuIn--HPbuSVRMCEjCf5tVt_hY8ZMzt6Zs"
+}
+{ 
+    "_id" : NumberInt(5), 
+    "username" : "sreelu", 
+    "email" : "sreelekha.jadala@gmail.com", 
+    "password" : "aba@2ABC", 
+    "phone" : "09550909767", 
+    "address" : "hyderabad", 
+    "Active" : NumberInt(1), 
+    "actlink" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbSI6InNyZWVsZWtoYS5qYWRhbGFAZ21haWwuY29tIiwiaWF0IjoxNTY4NzI4NjUyfQ.3Oj6R7j1cr7qYskrOMEsqNGV5zbAFWo9Iz6lBWLmXHg"
+}
