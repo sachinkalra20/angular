@@ -79,4 +79,4 @@ app.post("/insprodimages",(req,res)=>{
 
 
 app.listen(3000);
-console.log("server started with port no:1000")
+console.log("server started with port no:3000")
