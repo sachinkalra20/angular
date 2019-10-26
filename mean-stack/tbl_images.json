@@ -1,0 +1,297 @@
+{ 
+    "_id" : NumberInt(1), 
+    "pid" : NumberInt(12), 
+    "productColor" : "Black", 
+    "productImage" : "C:\\fakepath\\iphone1.jpeg", 
+    "images" : [
+        "1567226239850iphone1.jpeg", 
+        "1567226239861iphone2.jpeg", 
+        "1567226239879iphone3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(2), 
+    "pid" : NumberInt(12), 
+    "productColor" : "Gold", 
+    "productImage" : "C:\\fakepath\\2iphone1.jpeg", 
+    "images" : [
+        "15672287565252iphone1.jpeg", 
+        "15672287565352iphone2.jpeg", 
+        "15672287565502iphone3.jpeg", 
+        "15672287565772iphone4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(3), 
+    "pid" : NumberInt(12), 
+    "productColor" : "Silver", 
+    "productImage" : "C:\\fakepath\\3iphone1.jpeg", 
+    "images" : [
+        "15672429717043iphone1.jpeg", 
+        "15672429717123iphone2.jpeg", 
+        "15672429717293iphone3.jpeg", 
+        "15672429717353iphone4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(4), 
+    "pid" : NumberInt(11), 
+    "productColor" : "Aura Glow", 
+    "productImage" : "C:\\fakepath\\1sphone1.jpeg", 
+    "images" : [
+        "15672430345661sphone1.jpeg", 
+        "15672430345681sphone2.jpeg", 
+        "15672430345721sphone3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(5), 
+    "pid" : NumberInt(11), 
+    "productColor" : "White", 
+    "productImage" : "C:\\fakepath\\sphone1.jpeg", 
+    "images" : [
+        "1567243113748sphone1.jpeg", 
+        "1567243113762sphone2.jpeg", 
+        "1567243113787sphone3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(6), 
+    "pid" : NumberInt(11), 
+    "productColor" : "Black", 
+    "productImage" : "C:\\fakepath\\2sphone1.jpeg", 
+    "images" : [
+        "15672431524812sphone1.jpeg", 
+        "15672431524852sphone2.jpeg", 
+        "15672431524872sphone3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(7), 
+    "pid" : NumberInt(15), 
+    "productColor" : "White", 
+    "productImage" : "C:\\fakepath\\wm2.jpeg", 
+    "images" : [
+        "1568641801606wm2.jpeg", 
+        "1568641801622wm3.jpeg", 
+        "1568641801628wm4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(8), 
+    "pid" : NumberInt(7), 
+    "productColor" : "Silver", 
+    "productImage" : "C:\\fakepath\\ddref1.jpeg", 
+    "images" : [
+        "1568642377902ddref1.jpeg", 
+        "1568642377916ddref2.jpeg", 
+        "1568642377933ddref3.jpeg", 
+        "1568642377947ddref4.jpeg", 
+        "1568642377949ddref5.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(9), 
+    "pid" : NumberInt(24), 
+    "productColor" : "Green", 
+    "productImage" : "C:\\fakepath\\ethnickurta1.jpeg", 
+    "images" : [
+        "1568643909199ethnickurta1.jpeg", 
+        "1568643909204ethnickurta2.jpeg", 
+        "1568643909222ethnickurta3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(10), 
+    "pid" : NumberInt(24), 
+    "productColor" : "Yellow", 
+    "productImage" : "C:\\fakepath\\2ethnickurta1.jpeg", 
+    "images" : [
+        "15686442577712ethnickurta1.jpeg", 
+        "15686442577952ethnickurta2.jpeg", 
+        "15686442578012ethnickurta3.jpeg", 
+        "15686442578132ethnickurta4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(11), 
+    "pid" : NumberInt(24), 
+    "productColor" : "Black", 
+    "productImage" : "C:\\fakepath\\3ethnickurta1.jpeg", 
+    "images" : [
+        "15686443133913ethnickurta1.jpeg", 
+        "15686443134103ethnickurta2.jpeg", 
+        "15686443134163ethnickurta3.jpeg", 
+        "15686443134273ethnickurta4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(12), 
+    "pid" : NumberInt(25), 
+    "productColor" : "Yellow", 
+    "productImage" : "C:\\fakepath\\ethnicchudi1.jpeg", 
+    "images" : [
+        "1568644841278ethnicchudi1.jpeg", 
+        "1568644841284ethnicchudi2.jpeg", 
+        "1568644841301ethnicchudi3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(13), 
+    "pid" : NumberInt(25), 
+    "productColor" : "Black", 
+    "productImage" : "C:\\fakepath\\3ethnicchudi1.jpeg", 
+    "images" : [
+        "15686448749333ethnicchudi1.jpeg", 
+        "15686448749543ethnicchudi2.jpeg", 
+        "15686448749663ethnicchudi3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(14), 
+    "pid" : NumberInt(25), 
+    "productColor" : "Pink", 
+    "productImage" : "C:\\fakepath\\2ethnicchudi1.jpeg", 
+    "images" : [
+        "15686449759692ethnicchudi1.jpeg", 
+        "15686449759742ethnicchudi2.jpeg", 
+        "15686449760032ethnicchudi3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(15), 
+    "pid" : NumberInt(5), 
+    "productColor" : "White", 
+    "productImage" : "C:\\fakepath\\2recliner1.jpeg", 
+    "images" : [
+        "15686461158062recliner1.jpeg", 
+        "15686461158092recliner2.jpeg", 
+        "15686461158132recliner3.jpeg", 
+        "15686461158392recliner4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(16), 
+    "pid" : NumberInt(5), 
+    "productColor" : "Brown", 
+    "productImage" : "C:\\fakepath\\recliner1.jpeg", 
+    "images" : [
+        "1568646488609recliner1.jpeg", 
+        "1568646488620recliner2.jpeg", 
+        "1568646488650recliner3.jpeg", 
+        "1568646488658recliner4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(17), 
+    "pid" : NumberInt(6), 
+    "productColor" : "Green", 
+    "productImage" : "C:\\fakepath\\2-3seatsofa1.jpeg", 
+    "images" : [
+        "15686471960842-3seatsofa1.jpeg", 
+        "15686471961042-3seatsofa2.jpeg", 
+        "15686471961192-3seatsofa3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(18), 
+    "pid" : NumberInt(6), 
+    "productColor" : "Brown", 
+    "productImage" : "C:\\fakepath\\3-3seatsofa1.jpeg", 
+    "images" : [
+        "15686472364033-3seatsofa1.jpeg", 
+        "15686472364093-3seatsofa2.jpeg", 
+        "15686472364253-3seatsofa3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(19), 
+    "pid" : NumberInt(6), 
+    "productColor" : "Black", 
+    "productImage" : "C:\\fakepath\\4-3seatsofa1.jpeg", 
+    "images" : [
+        "15686472654144-3seatsofa1.jpeg", 
+        "15686472654384-3seatsofa2.jpeg", 
+        "15686472654494-3seatsofa3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(20), 
+    "pid" : NumberInt(6), 
+    "productColor" : "Yellow", 
+    "productImage" : "C:\\fakepath\\sofa1.jpeg", 
+    "images" : [
+        "1568647349984sofa1.jpeg", 
+        "1568647349986sofa2.jpeg", 
+        "1568647349988sofa3.jpeg", 
+        "1568647349989sofa4.jpeg", 
+        "1568647349991sofa5.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(21), 
+    "pid" : NumberInt(7), 
+    "productColor" : "Silver", 
+    "productImage" : "C:\\fakepath\\ddref1.jpeg", 
+    "images" : [
+        "1568647482928ddref1.jpeg", 
+        "1568647482931ddref2.jpeg", 
+        "1568647482935ddref3.jpeg", 
+        "1568647482947ddref4.jpeg", 
+        "1568647482962ddref5.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(23), 
+    "pid" : NumberInt(8), 
+    "productColor" : "Blue", 
+    "productImage" : "C:\\fakepath\\sdref1.jpeg", 
+    "images" : [
+        "1568647549658sdref1.jpeg", 
+        "1568647549661sdref2.jpeg", 
+        "1568647549690sdref3.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(24), 
+    "pid" : NumberInt(9), 
+    "productColor" : "Brown", 
+    "productImage" : "C:\\fakepath\\kbeds.jpeg", 
+    "images" : [
+        "1568648403544kbeds.jpeg", 
+        "1568648403570kbeds2.jpeg", 
+        "1568648403580kbeds3.jpeg", 
+        "1568648403587kbeds4.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(25), 
+    "pid" : NumberInt(10), 
+    "productColor" : "Brown", 
+    "productImage" : "C:\\fakepath\\qbeds1.jpeg", 
+    "images" : [
+        "1568648443038qbeds1.jpeg", 
+        "1568648443039qbeds2.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(26), 
+    "pid" : NumberInt(14), 
+    "productColor" : "White", 
+    "productImage" : "C:\\fakepath\\rdin1.jpeg", 
+    "images" : [
+        "1568648760372rdin1.jpeg", 
+        "1568648760389rdin2.jpeg"
+    ]
+}
+{ 
+    "_id" : NumberInt(27), 
+    "pid" : NumberInt(13), 
+    "productColor" : "Brown", 
+    "productImage" : "C:\\fakepath\\recdin1.jpeg", 
+    "images" : [
+        "1568648828139recdin1.jpeg", 
+        "1568648828141recdin2.jpeg", 
+        "1568648828145recdin3.jpeg"
+    ]
+}

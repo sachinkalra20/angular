@@ -1,0 +1,35 @@
+{ 
+    "_id" : NumberInt(1), 
+    "catname" : "Electronics", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "catname" : "Furniture", 
+    "Active" : "0"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "catname" : "Books", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "catname" : "Men", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "catname" : "Women", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(6), 
+    "catname" : "Baby & Kids", 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(7), 
+    "catname" : "Furniture", 
+    "Active" : NumberInt(1)
+}

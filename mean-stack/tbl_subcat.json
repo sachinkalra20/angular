@@ -1,0 +1,102 @@
+{ 
+    "_id" : NumberInt(1), 
+    "subcatname" : "WashingMachine", 
+    "catid" : NumberInt(1), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(2), 
+    "subcatname" : "Sofa", 
+    "catid" : NumberInt(2), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(3), 
+    "subcatname" : "Mobiles", 
+    "catid" : NumberInt(1), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(4), 
+    "subcatname" : "Refrigerator", 
+    "catid" : NumberInt(1), 
+    "Active" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(5), 
+    "subcatname" : "Dinning Table", 
+    "catid" : NumberInt(2), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(6), 
+    "subcatname" : "Beds", 
+    "catid" : NumberInt(2), 
+    "Active" : NumberInt(0)
+}
+{ 
+    "_id" : NumberInt(7), 
+    "subcatname" : "Fiction Books", 
+    "catid" : NumberInt(3), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(8), 
+    "subcatname" : "Clothing", 
+    "catid" : NumberInt(4), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(9), 
+    "subcatname" : "Foot Wear", 
+    "catid" : NumberInt(4), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(10), 
+    "subcatname" : "Watches", 
+    "catid" : NumberInt(4), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(11), 
+    "subcatname" : "Clothing", 
+    "catid" : NumberInt(5), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(12), 
+    "subcatname" : "Foot Wear", 
+    "catid" : NumberInt(5), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(13), 
+    "subcatname" : "Accessories", 
+    "catid" : NumberInt(5), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(14), 
+    "subcatname" : "Non Fiction", 
+    "catid" : NumberInt(3), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(15), 
+    "subcatname" : "Kids Clothing", 
+    "catid" : NumberInt(6), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(16), 
+    "subcatname" : "Toys", 
+    "catid" : NumberInt(6), 
+    "Active" : NumberInt(1)
+}
+{ 
+    "_id" : NumberInt(17), 
+    "subcatname" : "Baby Care", 
+    "catid" : NumberInt(6), 
+    "Active" : NumberInt(1)
+}
